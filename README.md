@@ -4,7 +4,9 @@
 
 📫 Reach me:
 
-[![Linkedin](https://img.icons8.com/metro/52/000000/linkedin.png)](https://www.linkedin.com/in/beatrizadm/)
+[![Linkedin](https://img.icons8.com/ios-filled/48/000000/linkedin.png)](https://www.linkedin.com/in/beatrizadm/)
+[![Instagram](https://img.icons8.com/material-outlined/48/000000/instagram-new.png)](https://www.instagram.com/beatrizadm/)
+
 
 
 [![Linkedin](https://img.icons8.com/ios-glyphs/60/000000/linkedin-circled.png)](https://www.linkedin.com/in/beatrizadm/)
