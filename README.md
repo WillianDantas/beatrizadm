@@ -14,7 +14,8 @@
 [![Instagram](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.instagram.com/beatrizadm/)
 
 
-[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/beatrizadm/)
+[![Instagram](https://img.icons8.com/fluent/96/000000/instagram-new.png)](https://www.instagram.com/beatrizadm/)
+
 
 <!--
 **beatrizadm/beatrizadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
