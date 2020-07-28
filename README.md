@@ -5,6 +5,9 @@
 📫 Reach me:
 
 
+[![Linkedin](https://cdn1.iconfinder.com/data/icons/windows8_icons_iconpharm/26/linkedin.png)](https://www.linkedin.com/in/beatrizadm/)
+
+[![Linkedin]()](https://www.linkedin.com/in/beatrizadm/)
 
 <img href="https://www.linkedin.com/in/beatrizadm/" src="https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png" width="50" heigth="50" alt="Linkedin"/>
 
