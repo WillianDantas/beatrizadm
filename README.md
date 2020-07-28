@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+
 🌱 I’m currently learning web development
+
 📫 Reach me:
 
 [![Linkedin](https://icon-icons.com/icons2/652/PNG/48/linkedin_icon-icons.com_59873.png)](https://www.linkedin.com/in/beatrizadm/)
