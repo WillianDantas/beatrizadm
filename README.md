@@ -3,7 +3,7 @@
 🌱 I’m currently learning web development
 
 📫 How to reach me:
-[![teste](https://toppng.com/uploads/preview/linkedin-logo-vector-free-download-11573940105qxnftfjdcv.png)](https://www.linkedin.com/in/beatrizadm/)
+[![teste](https://toppng.com/uploads/preview/linkedin-logo-vector-free-download-11573940105qxnftfjdcv.png =100x)](https://www.linkedin.com/in/beatrizadm/)
 - instagram
 - email
 
