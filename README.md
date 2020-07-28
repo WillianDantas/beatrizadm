@@ -4,7 +4,7 @@
 
 📫 Reach me:
 <br/>
-<img src="./src/linkedin.png" alt="linkedin" href="https://www.linkedin.com/in/beatrizadm/" width="50" heigth="50"/>
+<img src="./src/linkedin.png" alt="linkedin" href="https://www.linkedin.com/in/beatrizadm/" padding="50" width="50" heigth="50"/>
 <img src="./src/instagram.png" alt="instagram" href="https://www.instagram.com/beatrizadm/" width="50" heigth="50"/>
 
 
