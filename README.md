@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🌱 I’m currently learning web development
+
+📫 How to reach me:
+[![teste](https://toppng.com/uploads/preview/linkedin-logo-vector-free-download-11573940105qxnftfjdcv.png)](https://www.linkedin.com/in/beatrizadm/)
+- instagram
+- email
+
+
+
 <!--
 **beatrizadm/beatrizadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
