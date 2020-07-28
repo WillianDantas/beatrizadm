@@ -4,10 +4,10 @@
 
 📫 Reach me:
 
-[![Linkedin](https://icon-icons.com/icons2/1233/PNG/64/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/beatrizadm/)
+[![Linkedin](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/beatrizadm/)
 [![Instagram](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/beatrizadm/)
 
-[![Linkedin](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/beatrizadm/)
+[![Linkedin](https://icon-icons.com/icons2/652/PNG/48/linkedin_icon-icons.com_59873.png)](https://www.linkedin.com/in/beatrizadm/)
 [![Instagram](https://icon-icons.com/icons2/2428/PNG/48/instagram_black_logo_icon_147122.png)](https://www.instagram.com/beatrizadm/)
 
 
