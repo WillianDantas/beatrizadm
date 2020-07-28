@@ -3,7 +3,7 @@
 🌱 I’m currently learning web development
 
 📫 How to reach me:
-- <img src="https://toppng.com/uploads/preview/linkedin-logo-vector-free-download-11573940105qxnftfjdcv.png" alt="linkedin" href="https://www.linkedin.com/in/beatrizadm/" width="100" heigth="100"/>
+- <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png" alt="linkedin" href="https://www.linkedin.com/in/beatrizadm/" width="100" heigth="100"/>
 - instagram
 - email
 
