@@ -4,9 +4,9 @@
 
 📫 Reach me:
 
-< img src="https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png" width="50" heigth="50" href="https://www.linkedin.com/in/beatrizadm/"/>
+< img src="https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png" width="50" heigth="50" href="https://www.linkedin.com/in/beatrizadm/">
 
-< img src="./src/linkedin.png" width="50" heigth="50" href="https://www.linkedin.com/in/beatrizadm/"/>
+< img src="./src/linkedin.png" width="50" heigth="50" href="https://www.linkedin.com/in/beatrizadm/">
 
 
 [![Linkedin](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/beatrizadm/)
