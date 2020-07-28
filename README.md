@@ -5,7 +5,7 @@
 📫 Reach me:
 
 
-[![Linkedin](https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png)](https://www.linkedin.com/in/beatrizadm/)
+[![Linkedin](https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png =50x50)](https://www.linkedin.com/in/beatrizadm/)
 
 <img src="https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png" width="50" heigth="50" href="https://www.linkedin.com/in/beatrizadm/"/>
 
