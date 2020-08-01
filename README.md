@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![GitHub Bagde](https://img.shields.io/github/followers/rodrigoec?label=follow&style=social)](https://github.com/beatrizadm)
+[![GitHub Bagde](https://img.shields.io/github/followers/beatrizadm?label=follow&style=social)](https://github.com/beatrizadm)
 
 
 🌱 I’m currently learning web development
