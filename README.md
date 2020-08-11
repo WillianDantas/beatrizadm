@@ -4,9 +4,9 @@
 
 📬 Reach me:
 
-[<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" height="23" title="Follow me" />](https://github.com/beatrizadm) 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizadm" height="23" title="LinkedIn" />](https://www.linkedin.com/in/beatrizadm) 
-[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/beatrizadm" height="23" title="Instagram" />](https://www.instagram.com/beatrizadm)
+[<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" height="22" title="Follow me" />](https://github.com/beatrizadm) 
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizadm" height="22" title="LinkedIn" />](https://www.linkedin.com/in/beatrizadm) 
+[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/beatrizadm" height="22" title="Instagram" />](https://www.instagram.com/beatrizadm)
 
 
 
