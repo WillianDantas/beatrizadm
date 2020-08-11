@@ -3,6 +3,7 @@
 🌱 I’m currently learning web development
 
 📬 Reach me:
+
 [<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" height="28" title="Follow me" />](https://github.com/beatrizadm) [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizadm" height="28" title="LinkedIn" />](https://www.linkedin.com/in/beatrizadm) [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/beatrizadm" height="28" title="Instagram" />](https://www.instagram.com/beatrizadm)
 
 
