@@ -1,6 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-🌱 I’m currently learning web development
+
+🕵️‍♀️ Always being curious and building things
+
+
+
+
 
 📬 Reach me:
 
