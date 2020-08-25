@@ -1,4 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+<img align="right" heigth="400" width="500" src="https://github-readme-stats.vercel.app/api?username=beatrizadm&hide=issues&count_private=true&icon_color=871489&title_color=0000d6&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
+/>
+
+
+### Hi there <img title="my status" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 
 🕵️‍♀️ Always being curious and building things
