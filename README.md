@@ -1,6 +1,5 @@
 <img title="My status" align="right" heigth="350" width="450" src="https://github-readme-stats.vercel.app/api?username=beatrizadm&hide=issues&count_private=true&icon_color=871489&title_color=0000d6&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
 />
-<p align="left>
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 
@@ -13,7 +12,6 @@
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizadm" height="22" title="LinkedIn" />](https://www.linkedin.com/in/beatrizadm) 
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/beatrizadm" height="22" title="Instagram" />](https://www.instagram.com/beatrizadm)
 
-<p/>
 
 <!--
 **beatrizadm/beatrizadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
