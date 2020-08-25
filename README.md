@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">  
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
 
-<img title="My status" align="right" heigth="350" width="450" src="https://github-readme-stats.vercel.app/api?username=beatrizadm&hide=issues&count_private=true&icon_color=871489&title_color=0000d6&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
+<img title="My status" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=beatrizadm&hide=issues&count_private=true&icon_color=871489&title_color=0000d6&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
 />
 
 🕵️‍♀️ Always being curious and building things
