@@ -5,12 +5,11 @@
 />
 
 <samp> 
+  
 🕵️‍♀️ Always being curious and building things
-</samp>
-<samp>
+
 👯 I’m available to help and learn together
-</samp>
-<samp>
+
 📬 Reach me:
 </samp>
 
