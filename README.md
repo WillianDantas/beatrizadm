@@ -1,13 +1,22 @@
+<samp> 
+  
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
+</samp>
 
 <img title="Beatriz Miranda's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=beatrizadm&hide=issues&count_private=true&icon_color=871489&title_color=01057d&bg_color=DEG,ffffff,e8ecfd&show_icons=true)"
 />
 
+<samp>
 🕵️‍♀️ Always being curious and building things
+</samp>
 
+<samp>
 👯 I’m available to help and learn together
+</samp>
 
+<samp>
 📬 Reach me:
+</samp>
 
 [<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" height="22" title="Follow me" />](https://github.com/beatrizadm) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizadm" height="22" title="LinkedIn" />](https://www.linkedin.com/in/beatrizadm) 
